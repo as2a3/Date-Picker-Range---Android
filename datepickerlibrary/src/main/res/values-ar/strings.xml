@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mon">اثنين</string>
+    <string name="tue">ثلاثاء</string>
+    <string name="wed">أربعاء</string>
+    <string name="thu">خميس</string>
+    <string name="fri">جمعة</string>
+    <string name="sat">سبت</string>
+    <string name="sun">أحد</string>
+
+</resources>

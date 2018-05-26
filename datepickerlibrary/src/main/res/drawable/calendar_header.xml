@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <corners
+        android:topLeftRadius="@dimen/view_basic_margin"
+        android:topRightRadius="@dimen/view_basic_margin"/>
+    <solid android:color="@color/calendar_header"/>
+
+</shape>
